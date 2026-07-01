@@ -1,0 +1,27 @@
+{
+  "cached": true,
+  "contact": { "showEmail": false, "showPhone": false },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "kidsdianashow-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCk8GzjMOrta8yxDcKfylJYw",
+      "username": "KidsDianaShow",
+      "handle": "KidsDianaShow",
+      "url": "https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw",
+      "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kWUVocierGiQqzhp6IVSjzD7AgfGErLQUuN5tq9yP54-o=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "✿ Kids Diana Show",
+      "is_verified": true,
+      "followers": 126000000,
+      "engagements": 22048,
+      "engagement_rate": 0.00017498412698412698,
+      "avg_views": 12045998
+    }
+  }
+}

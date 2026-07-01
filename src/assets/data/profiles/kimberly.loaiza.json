@@ -1,0 +1,82 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "kimberly-loaiza-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "6596805238354558982",
+      "sec_uid": "MS4wLjABAAAAY6j4BdlFScAP6iPRgfQ2WF6bjdxYyD9T41CmjSHql12E5p1nvXHkIlB7AaIw9NSy",
+      "username": "kimberly.loaiza",
+      "url": "https://www.tiktok.com/@kimberly.loaiza",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJiuRyW3rCN%2FmwHCZAr8kExfko4RhNTsVooTgPanYV%2FUCgDxM47QGzt0SmzcF4PBrKtS%2FGfIvCb4BWfDz3VLG%2Fwfg%3D%3D",
+      "fullname": "Kimberly Loaiza",
+      "description": "Music, lifestyle, and fan-focused short videos.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "FEMALE",
+      "age_group": "18-24",
+      "language": {
+        "code": "es",
+        "name": "Spanish"
+      },
+      "followers": 82300000,
+      "posts_count": 1300,
+      "engagements": 1469721,
+      "engagement_rate": 0.01785809234507898,
+      "avg_likes": 1469721,
+      "avg_comments": 26000,
+      "avg_views": 14246875,
+      "avg_shares": 1800,
+      "avg_saves": 7000,
+      "total_likes": 900000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 81200000, "following": 130, "avg_likes": 1400000 },
+        { "month": "2026-02", "followers": 81600000, "following": 130, "avg_likes": 1420000 },
+        { "month": "2026-03", "followers": 82000000, "following": 131, "avg_likes": 1440000 },
+        { "month": "2026-04", "followers": 82200000, "following": 131, "avg_likes": 1455000 },
+        { "month": "2026-05", "followers": 82300000, "following": 131, "avg_likes": 1469721 }
+      ],
+      "top_hashtags": [
+        { "tag": "kimberlyloaiza", "weight": 0.27 },
+        { "tag": "music", "weight": 0.2 },
+        { "tag": "lifestyle", "weight": 0.16 },
+        { "tag": "family", "weight": 0.13 },
+        { "tag": "dance", "weight": 0.12 }
+      ],
+      "top_mentions": [
+        { "tag": "music", "weight": 0.2 },
+        { "tag": "fashion", "weight": 0.14 },
+        { "tag": "fans", "weight": 0.12 },
+        { "tag": "tiktok", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 203,
+          "name": "Music & Entertainment",
+          "interest": [{ "id": 3, "name": "Music" }]
+        }
+      ],
+      "interests": [
+        { "id": 3, "name": "Music" },
+        { "id": 13, "name": "Clothes, Shoes, Handbags & Accessories" },
+        { "id": 36, "name": "Art & Design" }
+      ],
+      "relevant_tags": [
+        { "tag": "latincreator", "distance": 0.34, "freq": 8.7 },
+        { "tag": "musiccontent", "distance": 0.39, "freq": 8.1 },
+        { "tag": "fancommunity", "distance": 0.45, "freq": 7.4 }
+      ],
+      "similar_users": []
+    }
+  }
+}

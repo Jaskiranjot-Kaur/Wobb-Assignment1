@@ -1,0 +1,27 @@
+{
+  "cached": true,
+  "contact": { "showEmail": false, "showPhone": false },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "setindia-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCpEhnqL0y41EpW2TvWAHD7Q",
+      "username": "setindia",
+      "handle": "SETIndia",
+      "url": "https://www.youtube.com/channel/UCpEhnqL0y41EpW2TvWAHD7Q",
+      "picture": "https://yt3.googleusercontent.com/eu051krrRNQMMi5h6ynfnvhFJzxzSKulJQ42g5v72MQ9Bvv8KdpNIa6yM-0iGpnDgSF0itAD=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "SET India",
+      "is_verified": true,
+      "followers": 178000000,
+      "engagements": 357,
+      "engagement_rate": 0.0000020056179775280897,
+      "avg_views": 15027
+    }
+  }
+}

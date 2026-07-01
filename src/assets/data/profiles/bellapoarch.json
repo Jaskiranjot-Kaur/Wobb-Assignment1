@@ -1,0 +1,83 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "bellapoarch-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "6748458643983238149",
+      "sec_uid": "MS4wLjABAAAAIQGNoHByQvokcLbWCGnIfas0OV2nctsZnRFbN7eB04xt-9usrHe3UvXJRZLxBWlJ",
+      "username": "bellapoarch",
+      "url": "https://www.tiktok.com/@bellapoarch",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QSCMaxxBuDuVcQlJY8X8h9vqTqkZLQyMnqcWX9I4IhQ3KrJXiRxujMSsHUHl4mFsrQ9sg%2BalAq2EdG88JTzBHoOZ8o%2F40zRljnm3HdFDumlq%2BdoCXWi2ojcWxeRIfm7l%2FA%3D%3D",
+      "fullname": "Bella Poarch",
+      "description": "Music, trends, and short-form creator content.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "FEMALE",
+      "age_group": "18-24",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 94500000,
+      "posts_count": 900,
+      "engagements": 731630,
+      "engagement_rate": 0.007742116402116402,
+      "avg_likes": 731630,
+      "avg_comments": 9200,
+      "avg_views": 9769565,
+      "avg_shares": 1200,
+      "avg_saves": 4800,
+      "total_likes": 1200000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 91000000, "following": 120, "avg_likes": 690000 },
+        { "month": "2026-02", "followers": 92250000, "following": 121, "avg_likes": 705000 },
+        { "month": "2026-03", "followers": 93500000, "following": 121, "avg_likes": 717000 },
+        { "month": "2026-04", "followers": 93950000, "following": 122, "avg_likes": 725000 },
+        { "month": "2026-05", "followers": 94200000, "following": 122, "avg_likes": 729000 },
+        { "month": "2026-06", "followers": 94400000, "following": 123, "avg_likes": 731000 },
+        { "month": "2026-07", "followers": 94500000, "following": 123, "avg_likes": 731630 }
+      ],
+      "top_hashtags": [
+        { "tag": "bellapoarch", "weight": 0.3 },
+        { "tag": "music", "weight": 0.18 },
+        { "tag": "dance", "weight": 0.16 },
+        { "tag": "trending", "weight": 0.14 },
+        { "tag": "lifestyle", "weight": 0.12 }
+      ],
+      "top_mentions": [
+        { "tag": "tiktok", "weight": 0.22 },
+        { "tag": "music", "weight": 0.18 },
+        { "tag": "fashion", "weight": 0.14 },
+        { "tag": "creator", "weight": 0.1 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 201,
+          "name": "Music",
+          "interest": [{ "id": 3, "name": "Music" }]
+        }
+      ],
+      "interests": [
+        { "id": 3, "name": "Music" },
+        { "id": 36, "name": "Art & Design" }
+      ],
+      "relevant_tags": [
+        { "tag": "popmusic", "distance": 0.33, "freq": 8.6 },
+        { "tag": "dancecreator", "distance": 0.38, "freq": 8.1 },
+        { "tag": "shortform", "distance": 0.41, "freq": 7.9 }
+      ],
+      "similar_users": []
+    }
+  }
+}

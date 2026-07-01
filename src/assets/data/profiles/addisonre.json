@@ -1,0 +1,84 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "addisonre-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "6703550784929793030",
+      "sec_uid": "MS4wLjABAAAAVjQK614JSGmZVT3EVAiSDfznaBJOVfWPrtqDsQ9YxU368ewQrTyyEOb3OtJb4xCI",
+      "username": "addisonre",
+      "url": "https://www.tiktok.com/@addisonre",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJi%2BDVBhSRyFL08LuSDGfZzLzRZORFHXE6wIKw2XbAJTtO8wwLm%2BzxIE5LHyriJ3N9sS%2FGfIvCb4BWfDz3VLG%2Fwfg%3D%3D",
+      "fullname": "Addison Rae",
+      "description": "Dance, beauty, and lifestyle creator.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "FEMALE",
+      "age_group": "18-24",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 88807158,
+      "posts_count": 1100,
+      "engagements": 242750,
+      "engagement_rate": 0.002733450832870927,
+      "avg_likes": 242750,
+      "avg_comments": 6200,
+      "avg_views": 7878571,
+      "avg_shares": 940,
+      "avg_saves": 3900,
+      "total_likes": 850000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 87200000, "following": 170, "avg_likes": 236000 },
+        { "month": "2026-02", "followers": 87600000, "following": 170, "avg_likes": 237500 },
+        { "month": "2026-03", "followers": 88000000, "following": 171, "avg_likes": 239000 },
+        { "month": "2026-04", "followers": 88350000, "following": 171, "avg_likes": 240500 },
+        { "month": "2026-05", "followers": 88550000, "following": 171, "avg_likes": 241500 },
+        { "month": "2026-06", "followers": 88750000, "following": 172, "avg_likes": 242100 },
+        { "month": "2026-07", "followers": 88807158, "following": 172, "avg_likes": 242750 }
+      ],
+      "top_hashtags": [
+        { "tag": "addisonrae", "weight": 0.28 },
+        { "tag": "dance", "weight": 0.22 },
+        { "tag": "beauty", "weight": 0.18 },
+        { "tag": "lifestyle", "weight": 0.14 },
+        { "tag": "fashion", "weight": 0.1 }
+      ],
+      "top_mentions": [
+        { "tag": "fashion", "weight": 0.2 },
+        { "tag": "music", "weight": 0.16 },
+        { "tag": "tiktok", "weight": 0.16 },
+        { "tag": "beauty", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 202,
+          "name": "Beauty",
+          "interest": [{ "id": 13, "name": "Clothes, Shoes, Handbags & Accessories" }]
+        }
+      ],
+      "interests": [
+        { "id": 13, "name": "Clothes, Shoes, Handbags & Accessories" },
+        { "id": 3, "name": "Music" },
+        { "id": 36, "name": "Art & Design" }
+      ],
+      "relevant_tags": [
+        { "tag": "dancecreator", "distance": 0.3, "freq": 8.8 },
+        { "tag": "beautycreator", "distance": 0.36, "freq": 8.2 },
+        { "tag": "lifestylecontent", "distance": 0.43, "freq": 7.6 }
+      ],
+      "similar_users": []
+    }
+  }
+}

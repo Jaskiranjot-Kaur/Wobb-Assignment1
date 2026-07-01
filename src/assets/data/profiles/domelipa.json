@@ -1,0 +1,84 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "domelipa-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "131039763028930560",
+      "sec_uid": "MS4wLjABAAAA7jHC7OCxClWUxzdruWBebQ78trnI73n-F3DUf0vLr30vbU_qv0U0kG525TTczkR1",
+      "username": "domelipa",
+      "url": "https://www.tiktok.com/@domelipa",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJi7S%2F2W8838Qu7nciOi%2F6HV%2FoeMK6L4nArl0Jkfv4a6ro1LwGcKUgb24Y6EQlZIKnwS%2FGfIvCb4BWfDz3VLG%2Fwfg%3D%3D",
+      "fullname": "domelipa",
+      "description": "Dance, music, and trendy creator content.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "FEMALE",
+      "age_group": "18-24",
+      "language": {
+        "code": "es",
+        "name": "Spanish"
+      },
+      "followers": 75900000,
+      "posts_count": 950,
+      "engagements": 1010381,
+      "engagement_rate": 0.013312002635046113,
+      "avg_likes": 1010381,
+      "avg_comments": 17000,
+      "avg_views": 8452727,
+      "avg_shares": 1600,
+      "avg_saves": 6200,
+      "total_likes": 800000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 74200000, "following": 105, "avg_likes": 980000 },
+        { "month": "2026-02", "followers": 74600000, "following": 105, "avg_likes": 990000 },
+        { "month": "2026-03", "followers": 75000000, "following": 106, "avg_likes": 1001000 },
+        { "month": "2026-04", "followers": 75350000, "following": 106, "avg_likes": 1007000 },
+        { "month": "2026-05", "followers": 75600000, "following": 106, "avg_likes": 1009000 },
+        { "month": "2026-06", "followers": 75800000, "following": 107, "avg_likes": 1010200 },
+        { "month": "2026-07", "followers": 75900000, "following": 107, "avg_likes": 1010381 }
+      ],
+      "top_hashtags": [
+        { "tag": "domelipa", "weight": 0.28 },
+        { "tag": "dance", "weight": 0.22 },
+        { "tag": "music", "weight": 0.16 },
+        { "tag": "trend", "weight": 0.14 },
+        { "tag": "lifestyle", "weight": 0.1 }
+      ],
+      "top_mentions": [
+        { "tag": "dance", "weight": 0.2 },
+        { "tag": "music", "weight": 0.16 },
+        { "tag": "fashion", "weight": 0.12 },
+        { "tag": "tiktok", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 207,
+          "name": "Dance & Music",
+          "interest": [{ "id": 3, "name": "Music" }]
+        }
+      ],
+      "interests": [
+        { "id": 3, "name": "Music" },
+        { "id": 21, "name": "Sports" },
+        { "id": 36, "name": "Art & Design" }
+      ],
+      "relevant_tags": [
+        { "tag": "dancecontent", "distance": 0.3, "freq": 8.7 },
+        { "tag": "latincreator", "distance": 0.36, "freq": 8.0 },
+        { "tag": "shortvideo", "distance": 0.42, "freq": 7.5 }
+      ],
+      "similar_users": []
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "willsmith-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "6727327145951183878",
+      "sec_uid": "MS4wLjABAAAA8ezUaW4ecJX222ObGXxt07F9BIh4QH3-g1P1DHyChT2LLi2cn-vAE2R53-H672ZO",
+      "username": "willsmith",
+      "url": "https://www.tiktok.com/@willsmith",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJikUl7RxRA5xxPd0U8i6n293nRqjnobWsF%2FyRm7mgPYbXYiYBp6H1ot8TA2i12OZMES%2FGfIvCb4BWfDz3VLG%2Fwfg%3D%3D",
+      "fullname": "Will Smith",
+      "description": "Actor, creator, and storytelling content.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "MALE",
+      "age_group": "35-44",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 75300000,
+      "posts_count": 780,
+      "engagements": 125052,
+      "engagement_rate": 0.0016607171314741037,
+      "avg_likes": 125052,
+      "avg_comments": 4900,
+      "avg_views": 1999533,
+      "avg_shares": 520,
+      "avg_saves": 2100,
+      "total_likes": 600000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 74200000, "following": 180, "avg_likes": 121000 },
+        { "month": "2026-02", "followers": 74450000, "following": 180, "avg_likes": 122200 },
+        { "month": "2026-03", "followers": 74700000, "following": 181, "avg_likes": 123400 },
+        { "month": "2026-04", "followers": 74980000, "following": 181, "avg_likes": 124100 },
+        { "month": "2026-05", "followers": 75170000, "following": 182, "avg_likes": 124700 },
+        { "month": "2026-06", "followers": 75240000, "following": 182, "avg_likes": 124950 },
+        { "month": "2026-07", "followers": 75300000, "following": 183, "avg_likes": 125052 }
+      ],
+      "top_hashtags": [
+        { "tag": "willsmith", "weight": 0.24 },
+        { "tag": "storytime", "weight": 0.18 },
+        { "tag": "motivation", "weight": 0.16 },
+        { "tag": "film", "weight": 0.14 },
+        { "tag": "family", "weight": 0.12 }
+      ],
+      "top_mentions": [
+        { "tag": "movies", "weight": 0.2 },
+        { "tag": "inspiration", "weight": 0.16 },
+        { "tag": "actor", "weight": 0.12 },
+        { "tag": "storytelling", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 205,
+          "name": "Entertainment",
+          "interest": [{ "id": 1, "name": "Television & Film" }]
+        }
+      ],
+      "interests": [
+        { "id": 1, "name": "Television & Film" },
+        { "id": 36, "name": "Art & Design" }
+      ],
+      "relevant_tags": [
+        { "tag": "cinemacreator", "distance": 0.34, "freq": 8.2 },
+        { "tag": "motivationalcontent", "distance": 0.4, "freq": 7.8 },
+        { "tag": "storytelling", "distance": 0.44, "freq": 7.2 }
+      ],
+      "similar_users": []
+    }
+  }
+}

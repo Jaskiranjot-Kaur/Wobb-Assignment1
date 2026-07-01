@@ -1,0 +1,27 @@
+{
+  "cached": true,
+  "contact": { "showEmail": false, "showPhone": false },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "wwefannation-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+      "username": "WWEFanNation",
+      "handle": "WWE",
+      "url": "https://www.youtube.com/channel/UCJ5v_MCY6GNUBTO8-D3XoAg",
+      "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kRzpOO6EOnWYXSBHEhJft2_uVXk2uIjCWVJSAlAOCUOdgc=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "WWE",
+      "is_verified": true,
+      "followers": 105000000,
+      "engagements": 15179,
+      "engagement_rate": 0.00014456190476190477,
+      "avg_views": 292229
+    }
+  }
+}

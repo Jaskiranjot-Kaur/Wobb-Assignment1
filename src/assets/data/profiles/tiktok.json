@@ -1,0 +1,83 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "tiktok-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "107955",
+      "sec_uid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM",
+      "username": "tiktok",
+      "url": "https://www.tiktok.com/@tiktok",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaA0lwJ%2B7AvoxtJKlEuzU8RZC78ehYBtaTYOSfFVCKJiF%2BceFGsClPJZBiCwsOoAR%2Fz%2BgLvzqZ8cSTvbaxRbWtrIIxnSf1wZatdDLC23nhDN",
+      "fullname": "TikTok",
+      "description": "The official TikTok profile.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "UNKNOWN",
+      "age_group": "18-24",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 82200000,
+      "posts_count": 2200,
+      "engagements": 41761,
+      "engagement_rate": 0.0005080413625304137,
+      "avg_likes": 41761,
+      "avg_comments": 1300,
+      "avg_views": 3475620,
+      "avg_shares": 180,
+      "avg_saves": 600,
+      "total_likes": 250000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 81000000, "following": 60, "avg_likes": 39500 },
+        { "month": "2026-02", "followers": 81400000, "following": 60, "avg_likes": 40000 },
+        { "month": "2026-03", "followers": 81700000, "following": 61, "avg_likes": 40500 },
+        { "month": "2026-04", "followers": 81950000, "following": 61, "avg_likes": 40900 },
+        { "month": "2026-05", "followers": 82100000, "following": 61, "avg_likes": 41350 },
+        { "month": "2026-06", "followers": 82150000, "following": 62, "avg_likes": 41620 },
+        { "month": "2026-07", "followers": 82200000, "following": 62, "avg_likes": 41761 }
+      ],
+      "top_hashtags": [
+        { "tag": "tiktok", "weight": 0.3 },
+        { "tag": "creator", "weight": 0.18 },
+        { "tag": "shortform", "weight": 0.16 },
+        { "tag": "trending", "weight": 0.14 },
+        { "tag": "socialmedia", "weight": 0.12 }
+      ],
+      "top_mentions": [
+        { "tag": "creators", "weight": 0.2 },
+        { "tag": "music", "weight": 0.18 },
+        { "tag": "trends", "weight": 0.14 },
+        { "tag": "community", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 204,
+          "name": "Social Media",
+          "interest": [{ "id": 36, "name": "Art & Design" }]
+        }
+      ],
+      "interests": [
+        { "id": 36, "name": "Art & Design" },
+        { "id": 3, "name": "Music" }
+      ],
+      "relevant_tags": [
+        { "tag": "platformupdates", "distance": 0.28, "freq": 8.8 },
+        { "tag": "shortvideo", "distance": 0.35, "freq": 8.0 },
+        { "tag": "creatoreconomy", "distance": 0.4, "freq": 7.6 }
+      ],
+      "similar_users": []
+    }
+  }
+}

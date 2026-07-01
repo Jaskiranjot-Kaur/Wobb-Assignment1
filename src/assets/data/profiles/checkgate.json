@@ -1,0 +1,27 @@
+{
+  "cached": true,
+  "contact": { "showEmail": false, "showPhone": false },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "checkgate-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCbCmjCuTUZos6Inko4u57UQ",
+      "username": "checkgate",
+      "handle": "CoComelon",
+      "url": "https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ",
+      "picture": "https://yt3.googleusercontent.com/ytc/AIdro_mR-I4TDlJI7Rc2jwF0cZf6uMnzDpkRggMK4zGOi4eOndY=s480-c-k-c0x00ffffff-no-rj",
+      "fullname": "Cocomelon - Nursery Rhymes",
+      "is_verified": false,
+      "followers": 184000000,
+      "engagements": 124944,
+      "engagement_rate": 0.0006790434782608695,
+      "avg_views": 8662494
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "zachking-2026-07-01-01",
+      "created": "2026-07-01T00:00:00.000+00:00",
+      "profile_updated": "2026-07-01T00:00:00.000+00:00"
+    },
+    "user_profile": {
+      "type": "tiktok",
+      "user_id": "68616495085350913",
+      "sec_uid": "MS4wLjABAAAANnzJ9pdfxtlf3m5Ku_M-rCXVitJC13w4GavqyUD3RE8h1cZ-7O9FT-uQ9rCJjU_E",
+      "username": "zachking",
+      "url": "https://www.tiktok.com/@zachking",
+      "picture": "https://imgp.sptds.icu/v2?9gRRkBbg4nctjMDXek72QaD1Z6ujEs9fS8Aa10L%2B0D9PSnwGULyUDZKTdiD0Vp6pxpbk%2FPQaHD7NTqKqI9CLXuu%2BsK4zB%2F0d3EUPh5epJtxGt05XyJ7Bx5UZKkv9WCBkQV8ZLS2lamc1JGozAZlmzQ%3D%3D",
+      "fullname": "Zach King",
+      "description": "Magic, visual effects, and creator storytelling.",
+      "is_verified": true,
+      "is_hidden": false,
+      "gender": "MALE",
+      "age_group": "25-34",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 82200000,
+      "posts_count": 1500,
+      "engagements": 359320,
+      "engagement_rate": 0.0043712895377128955,
+      "avg_likes": 359320,
+      "avg_comments": 8700,
+      "avg_views": 8180000,
+      "avg_shares": 2200,
+      "avg_saves": 7600,
+      "total_likes": 1100000000,
+      "stat_history": [
+        { "month": "2026-01", "followers": 81200000, "following": 70, "avg_likes": 350000 },
+        { "month": "2026-02", "followers": 81450000, "following": 70, "avg_likes": 352000 },
+        { "month": "2026-03", "followers": 81650000, "following": 71, "avg_likes": 354000 },
+        { "month": "2026-04", "followers": 81800000, "following": 71, "avg_likes": 356000 },
+        { "month": "2026-05", "followers": 81950000, "following": 71, "avg_likes": 357500 },
+        { "month": "2026-06", "followers": 82100000, "following": 72, "avg_likes": 358800 },
+        { "month": "2026-07", "followers": 82200000, "following": 72, "avg_likes": 359320 }
+      ],
+      "top_hashtags": [
+        { "tag": "zachking", "weight": 0.3 },
+        { "tag": "magic", "weight": 0.22 },
+        { "tag": "vfx", "weight": 0.16 },
+        { "tag": "creator", "weight": 0.12 },
+        { "tag": "film", "weight": 0.1 }
+      ],
+      "top_mentions": [
+        { "tag": "magic", "weight": 0.2 },
+        { "tag": "effects", "weight": 0.16 },
+        { "tag": "video", "weight": 0.14 },
+        { "tag": "storytelling", "weight": 0.12 }
+      ],
+      "brand_affinity": [
+        {
+          "id": 206,
+          "name": "Visual Arts",
+          "interest": [{ "id": 36, "name": "Art & Design" }]
+        }
+      ],
+      "interests": [
+        { "id": 36, "name": "Art & Design" },
+        { "id": 1, "name": "Television & Film" }
+      ],
+      "relevant_tags": [
+        { "tag": "visualeffects", "distance": 0.26, "freq": 9.1 },
+        { "tag": "magiccreator", "distance": 0.33, "freq": 8.4 },
+        { "tag": "shortformvideo", "distance": 0.4, "freq": 7.7 }
+      ],
+      "similar_users": []
+    }
+  }
+}
