@@ -9,7 +9,7 @@
 Full visual redesign around a "Wobb" brand system — wine (`#6B2438`), cream (`#F5EFDC`), gold (`#C99A3F`), set up as CSS-first Tailwind v4 theme tokens in `src/index.css` (`@theme`). Includes a landing-style hero with the live search bar, animated entrances, platform tabs, premium profile cards, and a redesigned profile detail page. No extra UI/animation libraries were added — all built with Tailwind v4 utilities and a few custom `@utility`/`@keyframes` blocks, to keep the dependency footprint small.
 ## 📄 InitialDesign
 
-[Click here to view my Initial Design for the website](./InitialDesign.pdf)
+![HomePage](./1.png)
 
 ### State management — Zustand
 Replaced the old localStorage + custom `window` event pub-sub (`utils/savedList.ts`) with a single Zustand store (`src/store/useSavedProfilesStore.ts`) using the `persist` middleware for localStorage sync. Components read via selector hooks (`useIsProfileSaved`, `useSavedCount`) so only the components whose saved-state actually changed re-render.
