@@ -1,5 +1,7 @@
 # Wobb — Influencer Discovery App
 
+🔗 **Live demo:** [wobb-pi.vercel.app](https://wobb-pi.vercel.app/)
+
 React + TypeScript + Vite + Tailwind CSS v4 + Zustand.
 
 This is the Wobb frontend assignment starter, redesigned and fixed up. Below: how to run it,what changed from the original starter, and which libraries got used.
