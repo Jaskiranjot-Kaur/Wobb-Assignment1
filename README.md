@@ -65,6 +65,7 @@ before I touched anything.
   handler — just debug code someone forgot to remove. Deleted it.
 - Found a `data-search={searchQuery}` attribute being written onto every card for no reason.
   Removed it too.
+- YouTube search was breaking for some creators — a few entries in youtube.json (Vlad and Niki, Kids Diana Show, Like Nastya) don't have a username field at all in the raw data, only handle/custom_name. That       made the card show "@undefined" and broke the link to the profile page. Fixed.
 
 ### Dead code
 
@@ -93,6 +94,17 @@ fallback-avatar colors from a random rainbow palette to something that matches t
 ## Initial Design
 ![Landing Page](./1.png)
 ![Discover Talent](./2.png)
+
+## Feature implemented — Add to List
+Built the "Add to List" feature from scratch on top of the Zustand store:
+
+- Clicking "Add to List" on any card (search grid or profile page) toggles that profile in and out of the saved list, and stays in sync everywhere it's shown.
+- Duplicate protection — saving the same profile twice doesn't create two entries. Entries are matched by username + platform before adding, so re-clicking or saving from two different places never duplicates a row.
+- Doesn't break on re-render — the list reads straight from the store (not local component state), so re-renders, remounts, or navigating away and back don't lose or corrupt it. It also survives a page refresh since it's persisted to localStorage.
+- "My List" page groups everything by platform and has a "Clear all" action.
+
+
+
 
 ### Zustand
 
